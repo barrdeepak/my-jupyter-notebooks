@@ -1,0 +1,62 @@
+[
+  {
+    "product_id": "F001",
+    "product_name": "Apple",
+    "price": 1.2,
+    "discount": 0.1
+  },
+  {
+    "product_id": "F002",
+    "product_name": "Banana",
+    "price": 0.5,
+    "discount": 0.05
+  },
+  {
+    "product_id": "F003",
+    "product_name": "Orange",
+    "price": 0.8,
+    "discount": 0.07
+  },
+  {
+    "product_id": "F004",
+    "product_name": "Grapes",
+    "price": 2.0,
+    "discount": 0.15
+  },
+  {
+    "product_id": "F005",
+    "product_name": "Mango",
+    "price": 1.5,
+    "discount": 0.1
+  },
+  {
+    "product_id": "F006",
+    "product_name": "Pineapple",
+    "price": 3.0,
+    "discount": 0.2
+  },
+  {
+    "product_id": "F007",
+    "product_name": "Strawberry",
+    "price": 2.5,
+    "discount": 0.12
+  },
+  {
+    "product_id": "F008",
+    "product_name": "Blueberry",
+    "price": 3.2,
+    "discount": 0.18
+  },
+  {
+    "product_id": "F009",
+    "product_name": "Watermelon",
+    "price": 4.0,
+    "discount": 0.25
+  },
+  {
+    "product_id": "F010",
+    "product_name": "Peach",
+    "price": 1.8,
+    "discount": 0.1
+  }
+]
