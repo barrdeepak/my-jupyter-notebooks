@@ -1,7 +1,7 @@
 
 From the directory where this file(readme.txt) is present, run the following command - 
 
-	docker run -it --rm -p 8888:8888 -v "${PWD}":/home/jovyan/work quay.io/jupyter/pyspark-notebook:spark-3.5.2
+	docker run -it -p 8888:8888 -v "${PWD}":/home/jovyan/work quay.io/jupyter/pyspark-notebook:spark-3.5.2
 
 This will launch the pyspark notebook environment on 8888 port.
 
